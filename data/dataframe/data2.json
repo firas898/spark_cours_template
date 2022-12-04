@@ -1,0 +1,103 @@
+{"device":"macOS","event_name":"warranty","event_previous_timestamp":1593878899217692,"event_timestamp":1593878946592107,"geo":{"city":"Montrose","state":"MI"}}
+{"device":"Windows","event_name":"press","event_previous_timestamp":1593876662175340,"event_timestamp":1593877011756535,"geo":{"city":"Northampton","state":"MA"}}
+{"device":"macOS","event_name":"add_item","event_previous_timestamp":1593878792892652,"event_timestamp":1593878815459100,"geo":{"city":"Salinas","state":"CA"}}
+{"device":"iOS","event_name":"mattresses","event_previous_timestamp":1593878178791663,"event_timestamp":1593878809276923,"geo":{"city":"Everett","state":"MA"}}
+{"device":"Windows","event_name":"mattresses","event_timestamp":1593878628143633,"geo":{"city":"Cottage Grove","state":"MN"}}
+{"device":"Windows","event_name":"main","event_timestamp":1593878634344194,"geo":{"city":"Medina","state":"MN"}}
+{"device":"iOS","event_name":"main","event_timestamp":1593877936171803,"geo":{"city":"Mount Pleasant","state":"UT"}}
+{"device":"macOS","event_name":"main","event_timestamp":1593876843215329,"geo":{"city":"Piedmont","state":"AL"}}
+{"device":"Android","event_name":"warranty","event_previous_timestamp":1593878529774474,"event_timestamp":1593879213196400,"geo":{"city":"Rancho Santa Margarita","state":"CA"}}
+{"device":"Windows","event_name":"main","event_timestamp":1593876713246514,"geo":{"city":"Elyria","state":"OH"}}
+{"device":"iOS","event_name":"original","event_previous_timestamp":1593878068949001,"event_timestamp":1593878170903989,"geo":{"city":"Longview","state":"WA"}}
+{"device":"Linux","event_name":"main","event_timestamp":1593878036347579,"geo":{"city":"Lyndhurst","state":"OH"}}
+{"device":"Android","event_name":"down","event_previous_timestamp":1593879057792999,"event_timestamp":1593879125815755,"geo":{"city":"Jackson","state":"MO"}}
+{"device":"Linux","event_name":"main","event_timestamp":1593878672173087,"geo":{"city":"Cedar Rapids","state":"IA"}}
+{"device":"macOS","event_name":"main","event_timestamp":1593876429415452,"geo":{"city":"Phoenix","state":"AZ"}}
+{"device":"iOS","event_name":"mattresses","event_timestamp":1593876687337581,"geo":{"city":"Warwick","state":"RI"}}
+{"device":"macOS","event_name":"premium","event_previous_timestamp":1593877223736871,"event_timestamp":1593877973962436,"geo":{"city":"Everett","state":"WA"}}
+{"device":"Windows","event_name":"reviews","event_previous_timestamp":1593876442432487,"event_timestamp":1593876944661570,"geo":{"city":"Concord","state":"CA"}}
+{"device":"iOS","event_name":"original","event_previous_timestamp":1593877781854634,"event_timestamp":1593877788141768,"geo":{"city":"Dunwoody","state":"GA"}}
+{"device":"iOS","event_name":"main","event_previous_timestamp":1593877445670953,"event_timestamp":1593877497207417,"geo":{"city":"Rochester","state":"MN"}}
+{"device":"Android","event_name":"main","event_timestamp":1593877271099453,"geo":{"city":"Raleigh","state":"NC"}}
+{"device":"iOS","event_name":"reviews","event_previous_timestamp":1593878353149193,"event_timestamp":1593878356880855,"geo":{"city":"Los Angeles","state":"CA"}}
+{"device":"Android","event_name":"main","event_timestamp":1593879239050626,"geo":{"city":"New York","state":"NY"}}
+{"device":"Windows","event_name":"mattresses","event_timestamp":1593877608354608,"geo":{"city":"Chicago","state":"IL"}}
+{"device":"Android","event_name":"cart","event_previous_timestamp":1593878887634182,"event_timestamp":1593878899159806,"geo":{"city":"Fayetteville","state":"AR"}}
+{"device":"Windows","event_name":"cart","event_previous_timestamp":1593878838199623,"event_timestamp":1593879003979444,"geo":{"city":"Topeka","state":"KS"}}
+{"device":"macOS","event_name":"main","event_timestamp":1593879039209043,"geo":{"city":"Newark","state":"CA"}}
+{"device":"iOS","event_name":"main","event_timestamp":1593876687186216,"geo":{"city":"Battle Creek","state":"MI"}}
+{"device":"macOS","event_name":"faq","event_previous_timestamp":1593878537597094,"event_timestamp":1593878984168461,"geo":{"city":"El Paso","state":"TX"}}
+{"device":"macOS","event_name":"mattresses","event_timestamp":1593877076686136,"geo":{"city":"Sandy Springs","state":"GA"}}
+{"device":"iOS","event_name":"main","event_timestamp":1593876831949693,"geo":{"city":"Greeley","state":"CO"}}
+{"device":"Windows","event_name":"pillows","event_timestamp":1593879086932085,"geo":{"city":"Richland","state":"WA"}}
+{"device":"macOS","event_name":"main","event_timestamp":1593878642524459,"geo":{"city":"Camden","state":"SC"}}
+{"device":"Linux","event_name":"main","event_timestamp":1593877977050669,"geo":{"city":"Fairfield","state":"CA"}}
+{"device":"Windows","event_name":"pillows","event_timestamp":1593877512951677,"geo":{"city":"Jacksonville","state":"NC"}}
+{"device":"Windows","event_name":"mattresses","event_timestamp":1593878914256162,"geo":{"city":"San Angelo","state":"TX"}}
+{"device":"Android","event_name":"warranty","event_previous_timestamp":1593877962951723,"event_timestamp":1593878620744974,"geo":{"city":"North Canton","state":"OH"}}
+{"device":"Windows","event_name":"pillows","event_timestamp":1593878751138630,"geo":{"city":"Salem","state":"MA"}}
+{"device":"iOS","event_name":"foam","event_previous_timestamp":1593878204104266,"event_timestamp":1593878206468778,"geo":{"city":"Bloomington","state":"MN"}}
+{"device":"Windows","event_name":"main","event_timestamp":1593878429326706,"geo":{"city":"Grinnell","state":"IA"}}
+{"device":"Android","event_name":"checkout","event_previous_timestamp":1593879068779767,"event_timestamp":1593879230950221,"geo":{"city":"Philadelphia","state":"PA"}}
+{"device":"Android","event_name":"mattresses","event_timestamp":1593876443386829,"geo":{"city":"Richmond","state":"KY"}}
+{"device":"Chrome OS","event_name":"warranty","event_previous_timestamp":1593877262681814,"event_timestamp":1593878823421232,"geo":{"city":"Cloquet","state":"MN"}}
+{"device":"Windows","event_name":"main","event_timestamp":1593877041350735,"geo":{"city":"Albany","state":"NY"}}
+{"device":"Android","event_name":"mattresses","event_previous_timestamp":1593878139892679,"event_timestamp":1593879240812006,"geo":{"city":"Portland","state":"OR"}}
+{"device":"Chrome OS","event_name":"main","event_timestamp":1593878466349935,"geo":{"city":"Naperville","state":"IL"}}
+{"device":"macOS","event_name":"pillows","event_timestamp":1593879057039250,"geo":{"city":"Dallas","state":"TX"}}
+{"device":"macOS","event_name":"original","event_previous_timestamp":1593877933738325,"event_timestamp":1593878472750958,"geo":{"city":"Moreno Valley","state":"CA"}}
+{"device":"macOS","event_name":"cart","event_previous_timestamp":1593877089254852,"event_timestamp":1593877376501740,"geo":{"city":"Dallas","state":"TX"}}
+{"device":"Windows","event_name":"main","event_timestamp":1593878661450140,"geo":{"city":"Milledgeville","state":"GA"}}
+{"device":"Linux","event_name":"add_item","event_previous_timestamp":1593877045351670,"event_timestamp":1593878675942469,"geo":{"city":"Seattle","state":"WA"}}
+{"device":"macOS","event_name":"original","event_previous_timestamp":1593877104343794,"event_timestamp":1593877134114884,"geo":{"city":"Norwalk","state":"CT"}}
+{"device":"Windows","event_name":"careers","event_timestamp":1593878120615516,"geo":{"city":"Lynwood","state":"CA"}}
+{"device":"Android","event_name":"warranty","event_previous_timestamp":1593876568777492,"event_timestamp":1593878762928254,"geo":{"city":"San Diego","state":"CA"}}
+{"device":"Windows","event_name":"delivery","event_previous_timestamp":1593878833730809,"event_timestamp":1593878852225498,"geo":{"city":"New York","state":"NY"}}
+{"device":"macOS","event_name":"mattresses","event_timestamp":1593879062248629,"geo":{"city":"Davis","state":"CA"}}
+{"device":"iOS","event_name":"main","event_timestamp":1593876967068480,"geo":{"city":"Fresno","state":"CA"}}
+{"device":"macOS","event_name":"main","event_timestamp":1593876568876937,"geo":{"city":"Palmyra","state":"MO"}}
+{"device":"Linux","event_name":"press","event_previous_timestamp":1593877560200797,"event_timestamp":1593877572231604,"geo":{"city":"Fitchburg","state":"MA"}}
+{"device":"Android","event_name":"original","event_previous_timestamp":1593878473561670,"event_timestamp":1593878535553523,"geo":{"city":"Chicago","state":"IL"}}
+{"device":"Chrome OS","event_name":"main","event_timestamp":1593878981312640,"geo":{"city":"Bridgeton","state":"NJ"}}
+{"device":"Android","event_name":"mattresses","event_previous_timestamp":1593877715559380,"event_timestamp":1593877756506929,"geo":{"city":"Benicia","state":"CA"}}
+{"device":"Android","event_name":"add_item","event_previous_timestamp":1593879005037778,"event_timestamp":1593879138472812,"geo":{"city":"Lake Forest","state":"CA"}}
+{"device":"iOS","event_name":"main","event_timestamp":1593877868268844,"geo":{"city":"Hollywood","state":"FL"}}
+{"device":"iOS","event_name":"main","event_timestamp":1593878487566059,"geo":{"city":"Laurens","state":"SC"}}
+{"device":"Windows","event_name":"warranty","event_previous_timestamp":1593877804819270,"event_timestamp":1593877853146507,"geo":{"city":"Bridgeton","state":"NJ"}}
+{"device":"Windows","event_name":"main","event_timestamp":1593878946329881,"geo":{"city":"Los Angeles","state":"CA"}}
+{"device":"Android","event_name":"cart","event_previous_timestamp":1593878450150430,"event_timestamp":1593878826433752,"geo":{"city":"Hinesville","state":"GA"}}
+{"device":"Chrome OS","event_name":"main","event_timestamp":1593876424543297,"geo":{"city":"Egg Harbor City","state":"NJ"}}
+{"device":"Windows","event_name":"main","event_timestamp":1593876685393627,"geo":{"city":"Loveland","state":"CO"}}
+{"device":"iOS","event_name":"register","event_previous_timestamp":1593878974036647,"event_timestamp":1593879116208649,"geo":{"city":"Bellevue","state":"WA"}}
+{"device":"macOS","event_name":"checkout","event_previous_timestamp":1593877849522918,"event_timestamp":1593877871752279,"geo":{"city":"Sun Prairie","state":"WI"}}
+{"device":"Windows","event_name":"main","event_timestamp":1593878639879302,"geo":{"city":"Las Vegas","state":"NV"}}
+{"device":"Android","event_name":"reviews","event_previous_timestamp":1593879206755491,"event_timestamp":1593879288072307,"geo":{"city":"Jacksonville","state":"FL"}}
+{"device":"iOS","event_name":"press","event_previous_timestamp":1593878534786078,"event_timestamp":1593878587026765,"geo":{"city":"Phoenix","state":"AZ"}}
+{"device":"macOS","event_name":"pillows","event_timestamp":1593876430929937,"geo":{"city":"Philadelphia","state":"PA"}}
+{"device":"Chrome OS","event_name":"original","event_previous_timestamp":1593876945131602,"event_timestamp":1593876953877757,"geo":{"city":"San Francisco","state":"CA"}}
+{"device":"macOS","event_name":"add_item","event_previous_timestamp":1593878747637640,"event_timestamp":1593878872298444,"geo":{"city":"Spokane","state":"WA"}}
+{"device":"Android","event_name":"premium","event_previous_timestamp":1593876536742117,"event_timestamp":1593877636821563,"geo":{"city":"Rochester","state":"NY"}}
+{"device":"Linux","event_name":"mattresses","event_timestamp":1593878300547273,"geo":{"city":"Round Rock","state":"TX"}}
+{"device":"macOS","event_name":"pillows","event_timestamp":1593877254607024,"geo":{"city":"El Monte","state":"CA"}}
+{"device":"macOS","event_name":"main","event_timestamp":1593877653737078,"geo":{"city":"Aurora","state":"CO"}}
+{"device":"Windows","event_name":"main","event_timestamp":1593876743752307,"geo":{"city":"Brownsville","state":"TX"}}
+{"device":"Chrome OS","event_name":"add_item","event_previous_timestamp":1593878371393415,"event_timestamp":1593878426477352,"geo":{"city":"Phoenix","state":"AZ"}}
+{"device":"iOS","event_name":"original","event_previous_timestamp":1593877166763307,"event_timestamp":1593878502578669,"geo":{"city":"Riverton","state":"UT"}}
+{"device":"iOS","event_name":"main","event_timestamp":1593877910000855,"geo":{"city":"Santa Monica","state":"CA"}}
+{"device":"Android","event_name":"premium","event_previous_timestamp":1593878561728298,"event_timestamp":1593878582714214,"geo":{"city":"Plymouth","state":"MN"}}
+{"device":"Android","event_name":"guest","event_previous_timestamp":1593878510582920,"event_timestamp":1593878513487688,"geo":{"city":"Waupun","state":"WI"}}
+{"device":"Android","event_name":"main","event_timestamp":1593877367598015,"geo":{"city":"Waukegan","state":"IL"}}
+{"device":"iOS","event_name":"original","event_previous_timestamp":1593876776911880,"event_timestamp":1593877512540418,"geo":{"city":"Old Town","state":"ME"}}
+{"device":"Android","event_name":"main","event_timestamp":1593878005107999,"geo":{"city":"Washington","state":"DC"}}
+{"device":"macOS","event_name":"delivery","event_previous_timestamp":1593876841371701,"event_timestamp":1593877115635446,"geo":{"city":"St. Marys","state":"PA"}}
+{"device":"Windows","event_name":"main","event_timestamp":1593878994662664,"geo":{"city":"New York","state":"NY"}}
+{"device":"iOS","event_name":"warranty","event_previous_timestamp":1593877040497777,"event_timestamp":1593877074207040,"geo":{"city":"Orem","state":"UT"}}
+{"device":"Android","event_name":"pillows","event_timestamp":1593878250659781,"geo":{"city":"Chicago","state":"IL"}}
+{"device":"iOS","event_name":"warranty","event_previous_timestamp":1593879199682554,"event_timestamp":1593879264007338,"geo":{"city":"Miami","state":"FL"}}
+{"device":"iOS","event_name":"main","event_timestamp":1593879094573756,"geo":{"city":"Bottineau","state":"ND"}}
+{"device":"Windows","event_name":"main","event_timestamp":1593878435584750,"geo":{"city":"Weymouth Town","state":"MA"}}
+{"device":"Windows","event_name":"premium","event_previous_timestamp":1593878907585237,"event_timestamp":1593878953436780,"geo":{"city":"Berkeley","state":"CA"}}
+{"device":"macOS","event_name":"main","event_timestamp":1593879021733084,"geo":{"city":"Walled Lake","state":"MI"}}
+{"device":"Windows","event_name":"pillows","event_previous_timestamp":1593876510337611,"event_timestamp":1593876568939194,"geo":{"city":"Los Angeles","state":"CA"}}
+{"device":"macOS","event_name":"main","event_timestamp":1593876801153024,"geo":{"city":"Philadelphia","state":"PA"}}
+{"device":"iOS","event_name":"main","event_timestamp":1593877582388423,"geo":{"city":"Phoenix","state":"AZ"}}
